@@ -1,0 +1,9 @@
+Ingredients:
+  - 2 eggs
+  - butter
+  - milk
+
+Directions:
+  1. Mix eggs with splash of milk
+  2. Add butter to pan
+  3. Add eggs and cook on medium
